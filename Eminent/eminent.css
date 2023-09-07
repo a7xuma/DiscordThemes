@@ -46,4 +46,15 @@
     background-color: var(--eminent-bg-darken);
 }
 
-/* Add your custom CSS below */
+.contentWrapper-3vHNP2 {
+    background: var(--eminent-bg-darken);
+}
+
+.searchBar-jGtisZ {
+    background-color: var(--eminent-darken-under);
+}
+
+.toolbar-3_r2xA > .iconWrapper-2awDjA:hover {
+    border-radius: 6px;
+    background: var(--eminent-darken-under);
+}
