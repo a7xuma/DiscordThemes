@@ -8,4 +8,11 @@
 
 @import url("https://cdn.jsdelivr.net/gh/a7xuma/DiscordThemes@main/Eminent/eminent.css");
 
+/* Do not change the code in the @import! */
+
+:root {
+	--unthemed-gradient-primary-color: rgb(19, 19, 38);
+	--unthemed-gradient-secondary-color: rgb(0, 66, 47);
+}
+
 /* Your custom CSS below */
