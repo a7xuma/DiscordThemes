@@ -14,6 +14,7 @@
     
     --channeltextarea-background: var(--eminent-darken-under);
     --background-modifier-selected: var(--eminent-brighten-dim);
+    --background-modifier-active: var(--eminent-brighten-dim);
     --background-modifier-hover: var(--eminent-brighten-dim);
     --background-secondary-alt: var(--eminent-darken-under);
     --background-floating: var(--eminent-bg-darken);
@@ -44,3 +45,5 @@
 .childWrapper-1j_1ub {
     background-color: var(--eminent-bg-darken);
 }
+
+/* Add your custom CSS below */
