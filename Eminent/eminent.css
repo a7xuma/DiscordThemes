@@ -21,6 +21,9 @@
     
     --primary-630: var(--eminent-bg-darken);
     --background-accent: var(--eminent-bg-darken);
+    --__header-bar-background: var(--eminent-bg-darken);
+    --bg-overlay-2: var(--eminent-bg-darken);
+    --home-background: var(--eminent-bg);
 }
 
 /* CSS snippets */
@@ -50,9 +53,7 @@
     background: var(--eminent-bg-darken);
 }
 
-.searchBar-jGtisZ {
-    background-color: var(--eminent-darken-under);
-}
+.theme-dark .children-3xh0VB::after { display: none; }
 
 .toolbar-3_r2xA > .iconWrapper-2awDjA:hover {
     border-radius: 6px;
