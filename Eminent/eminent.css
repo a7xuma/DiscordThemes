@@ -55,7 +55,9 @@
 
 .theme-dark .children-3xh0VB::after { display: none; }
 
-.toolbar-3_r2xA > .iconWrapper-2awDjA:hover {
+.toolbar-3_r2xA > .iconWrapper-2awDjA, .toolbar-3_r2xA >* .iconWrapper-2awDjA {
     border-radius: 6px;
-    background: var(--eminent-darken-under);
+    &:hover {
+        background: var(--eminent-brighten-dim);
+    }
 }
