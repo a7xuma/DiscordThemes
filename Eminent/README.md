@@ -9,7 +9,7 @@ Eminent is a dark purple Discord theme using a modified "blurple" (blue and purp
 You can simply click [this link here](https://github.com/a7xuma/DiscordThemes/raw/main/Eminent/eminent.user.css) and it should prompt you to install the theme.
 
 ### Third-party Discord modifications
-If they (BetterDiscord, etc.) support .theme.css files, find their respective themes folder and download the file there.
+If your Discord modification supports .theme.css files, find their respective themes folder and download [the file](https://github.com/a7xuma/DiscordThemes/blob/main/Eminent/eminent.theme.css) there.
 
 ### Other extensions / Custom CSS
 Copy the contents of [eminent.css](https://raw.githubusercontent.com/a7xuma/DiscordThemes/main/Eminent/eminent.css) and paste it wherever you'd like.
