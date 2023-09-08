@@ -23,12 +23,23 @@
     --background-modifier-hover: var(--eminent-brighten-dim);
     --background-secondary-alt: var(--eminent-darken-under);
     --background-floating: var(--eminent-bg-darken);
+    --background-modifier-accent: var(--eminent-brighten-dim);
     
     --primary-630: var(--eminent-bg-darken);
     --background-accent: var(--eminent-bg-darken);
     --__header-bar-background: var(--eminent-bg-darken);
     --bg-overlay-2: var(--eminent-bg-darken);
     --home-background: var(--eminent-bg);
+        
+        
+    --modal-background: var(--eminent-bg);
+    --modal-footer-background: var(--eminent-bg-darken);
+    --text-normal: rgb(120, 120, 120);
+    --header-secondary: rgb(120, 120, 120);
+    --header-primary: rgb(150, 150, 150);
+        
+    --button-secondary-background: var(--eminent-darken-under);
+    --button-secondary-background-hover: var(--eminent-brighten-dim);
 }
 
 /* CSS snippets */
@@ -64,5 +75,58 @@
     border-radius: 6px;
     &:hover {
         background: var(--eminent-brighten-dim);
+    }
+}
+
+.layerContainer-2lfOPe {
+    .root-1CAIjD {
+        border-radius: 4px;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        
+        border: 1px solid var(--eminent-brighten-dim);
+    }
+    .theme-light {
+        --eminent-bg: rgb(10, 12, 15);
+        --eminent-dark-under-dim: rgb(0, 0, 0, 0.25);
+        --eminent-darken-under: rgb(0, 0, 0, 0.5);
+        --eminent-brighten-dim: rgb(114, 114, 226, 0.15);
+        --eminent-brighten-bright: rgb(114, 114, 226, 0.5);
+        --eminent-color: rgb(114, 114, 226);
+        --eminent-bg-darken: rgb(5, 7, 9);
+    
+        --background-primary: var(--eminent-bg);
+        --background-secondary: var(--eminent-dark-under-dim);
+        --background-tertiary: var(--eminent-bg);
+        --text-link: var(--eminent-color);
+    
+        --channeltextarea-background: var(--eminent-darken-under);
+        --background-modifier-selected: var(--eminent-brighten-dim);
+        --background-modifier-active: var(--eminent-brighten-dim);
+        --background-modifier-hover: var(--eminent-brighten-dim);
+        --background-secondary-alt: var(--eminent-darken-under);
+        --background-floating: var(--eminent-bg-darken);
+        --background-modifier-accent: var(--eminent-brighten-dim);
+    
+        --primary-630: var(--eminent-bg-darken);
+        --background-accent: var(--eminent-bg-darken);
+        --__header-bar-background: var(--eminent-bg-darken);
+        --bg-overlay-2: var(--eminent-bg-darken);
+        --home-background: var(--eminent-bg);
+        
+        
+        --modal-background: var(--eminent-bg);
+        --modal-footer-background: var(--eminent-bg-darken);
+        --text-normal: rgb(120, 120, 120);
+        --header-secondary: rgb(120, 120, 120);
+        --header-primary: rgb(150, 150, 150);
+        
+        --button-secondary-background: var(--eminent-darken-under);
+        --button-secondary-background-hover: var(--eminent-brighten-dim);
+    }
+    .footer-3ie9JP {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        border-top: 1px solid var(--eminent-brighten-dim);
     }
 }
