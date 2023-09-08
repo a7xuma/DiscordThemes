@@ -12,4 +12,4 @@ You can simply click [this link here](https://github.com/a7xuma/DiscordThemes/ra
 If they (BetterDiscord, etc.) support .theme.css files, find their respective themes folder and download the file there.
 
 ### Other extensions / Custom CSS
-Copy the contents of (eminent.css)[https://raw.githubusercontent.com/a7xuma/DiscordThemes/main/Eminent/eminent.css] and paste it wherever you'd like.
+Copy the contents of [eminent.css](https://raw.githubusercontent.com/a7xuma/DiscordThemes/main/Eminent/eminent.css) and paste it wherever you'd like.
