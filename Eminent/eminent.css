@@ -31,15 +31,18 @@
     --bg-overlay-2: var(--eminent-bg-darken);
     --home-background: var(--eminent-bg);
         
-        
+    /*
     --modal-background: var(--eminent-bg);
     --modal-footer-background: var(--eminent-bg-darken);
-    --text-normal: rgb(120, 120, 120);
+    
+    --text-normal: rgb(120, 120, 120); 
     --header-secondary: rgb(120, 120, 120);
     --header-primary: rgb(150, 150, 150);
+    
         
     --button-secondary-background: var(--eminent-darken-under);
     --button-secondary-background-hover: var(--eminent-brighten-dim);
+    */
 }
 
 /* CSS snippets */
