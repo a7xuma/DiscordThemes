@@ -1,0 +1,25 @@
+/* ==UserStyle==
+@name         User
+@description  A dark purple Discord theme using a modified "blurple" (blue and purple) color scheme. Only edits the default Discord variables and adding a minimal amount of custom CSS.
+@version      0.1.1
+@author       a7xuma (https://github.com/a7xuma)
+@supportURL   https://github.com/a7xuma/issues
+==/UserStyle== */
+
+@-moz-document domain("discord.com") {
+	@import url("https://cdn.jsdelivr.net/gh/a7xuma/DiscordThemes@main/Eminent/eminent.css");
+	
+	/* Do not change the code in the @import! */
+	:root {
+    	--eminent-bg: rgb(10, 12, 15);
+    	--eminent-dark-under-dim: rgb(0, 0, 0, 0.25);
+    	--eminent-darken-under: rgb(0, 0, 0, 0.5);
+    	--eminent-brighten-dim: rgb(114, 114, 226, 0.15);
+    	--eminent-brighten-bright: rgb(114, 114, 226, 0.5);
+    	--eminent-color: rgb(114, 114, 226);
+    	--eminent-bg-darken: rgb(5, 7, 9);
+    
+    	--unthemed-gradient-primary-color: rgb(19, 19, 38);
+    	--unthemed-gradient-secondary-color: rgb(0, 66, 47);
+	}
+}
