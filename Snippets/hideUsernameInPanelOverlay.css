@@ -12,6 +12,7 @@
                 content: "Names have been hidden due to your theme settings.";
                 color: rgb(255, 255, 255, 0.8);
                 font-size: 12px;
+                font-weight: 400;
                 text-align: center;
             }
         }
