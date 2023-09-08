@@ -1,9 +1,4 @@
 :root {
-    --unthemed-gradient-primary-color: rgb(19, 19, 38);
-    --unthemed-gradient-secondary-color: rgb(0, 66, 47);
-}
-
-.theme-dark {
     --eminent-bg: rgb(10, 12, 15);
     --eminent-dark-under-dim: rgb(0, 0, 0, 0.25);
     --eminent-darken-under: rgb(0, 0, 0, 0.5);
@@ -12,6 +7,11 @@
     --eminent-color: rgb(114, 114, 226);
     --eminent-bg-darken: rgb(5, 7, 9);
     
+    --unthemed-gradient-primary-color: rgb(19, 19, 38);
+    --unthemed-gradient-secondary-color: rgb(0, 66, 47);
+}
+
+.theme-dark {
     --background-primary: var(--eminent-bg);
     --background-secondary: var(--eminent-dark-under-dim);
     --background-tertiary: var(--eminent-bg);
@@ -90,14 +90,6 @@
         border: 1px solid var(--eminent-brighten-dim);
     }
     .theme-light {
-        --eminent-bg: rgb(10, 12, 15);
-        --eminent-dark-under-dim: rgb(0, 0, 0, 0.25);
-        --eminent-darken-under: rgb(0, 0, 0, 0.5);
-        --eminent-brighten-dim: rgb(114, 114, 226, 0.15);
-        --eminent-brighten-bright: rgb(114, 114, 226, 0.5);
-        --eminent-color: rgb(114, 114, 226);
-        --eminent-bg-darken: rgb(5, 7, 9);
-    
         --background-primary: var(--eminent-bg);
         --background-secondary: var(--eminent-dark-under-dim);
         --background-tertiary: var(--eminent-bg);
