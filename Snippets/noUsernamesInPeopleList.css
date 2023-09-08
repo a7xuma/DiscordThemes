@@ -1,0 +1,19 @@
+.peopleListItem-u6dGxF {
+    & .discriminator-WV5K5s { font-size: 0px; width: 0px; }
+    
+    &:hover {
+        & .info-3ddo6z {
+            &:after {
+                display: block;
+                background: var(--channeltextarea-background);
+                padding: 0px 2px;
+                height: fit-content;
+                width: fit-content;
+                content: "Hidden Username";
+                color: rgb(255, 255, 255, 0.8);
+                font-size: 11px;
+                text-align: center;
+            }
+        }
+    }
+}
