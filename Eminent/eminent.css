@@ -31,10 +31,12 @@
     --bg-overlay-2: var(--eminent-bg-darken);
     --home-background: var(--eminent-bg);
         
-    /*
+    
     --modal-background: var(--eminent-bg);
     --modal-footer-background: var(--eminent-bg-darken);
     
+    --input-background: var(--eminent-bg-darken);
+    /*
     --text-normal: rgb(120, 120, 120); 
     --header-secondary: rgb(120, 120, 120);
     --header-primary: rgb(150, 150, 150);
@@ -80,6 +82,12 @@
         background: var(--eminent-brighten-dim);
     }
 }
+
+.popout-15UxD6 {
+    background: var(--eminent-bg-darken);
+}
+
+
 
 .layerContainer-2lfOPe {
     .root-1CAIjD {
